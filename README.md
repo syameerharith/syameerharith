@@ -58,13 +58,6 @@
 - Developed a GUI-based RPG game
 - Implemented game mechanics and interactive gameplay
 
----
-
-
-
-
-
----
 
 ## 🌐 Connect With Me
 
