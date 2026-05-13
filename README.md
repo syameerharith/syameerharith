@@ -26,7 +26,7 @@
 
 ### Back-End & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,mysql" />
 </p>
 
 ### Programming Languages
