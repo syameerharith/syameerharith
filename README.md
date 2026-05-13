@@ -62,10 +62,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syameerharith&show_icons=true&theme=default" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=syameerharith&theme=default" height="160"/>
-</p>
+
 
 ---
 
